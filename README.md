@@ -1,2 +1,2 @@
-# school-management-system
-sms project
+# sms-api
+School management System API
